@@ -1,341 +1,585 @@
-# 📑 Complete File Index
-
-Quick reference guide to all files in this repository.
-
----
-
-## 🚀 Start Here
-
-| File | Purpose | Read Time | When to Use |
-|------|---------|-----------|-------------|
-| **[GETTING_STARTED.md](GETTING_STARTED.md)** | Navigation guide | 5 min | First time here? Start here! |
-| **[README.md](README.md)** | Main lecture content | 60 min | Want complete understanding |
-| **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** | Teaching guide | 30 min | Teaching tomorrow |
-
----
-
-## 📚 Main Content Files
-
-### [README.md](README.md)
-**📖 Complete Lecture Framework**
-
-- **What:** Full 40-minute lecture content
-- **Length:** ~15,000 words
-- **Contains:**
-  - Classical finance theory
-  - Behavioral revolution (Prospect Theory)
-  - Six cognitive biases with examples
-  - HR-OB applications
-  - Academic citations
-  - Teaching resources
-
-**Read this when:** You want comprehensive understanding
-
----
-
-### [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
-**⚡ Condensed Teaching Guide**
-
-- **What:** Ready-to-use teaching scripts
-- **Length:** ~6,000 words
-- **Contains:**
-  - Timing breakdown (40 min)
-  - 60-second scripts for each bias
-  - At-a-glance bias table
-  - Hand-raise prompts
-  - Pre-session checklist
-  - Closing lines (verbatim)
-
-**Read this when:** You're preparing to teach
-
----
-
-## 🎨 Visual Resources
-
-### [VISUAL_DIAGRAMS_GUIDE.md](VISUAL_DIAGRAMS_GUIDE.md)
-**📐 Detailed Design Specifications**
-
-- **What:** Blueprint for creating 10 diagrams
-- **Length:** ~12,000 words
-- **Contains:**
-  - Purpose statements
-  - Exact measurements
-  - Color schemes (#hex codes)
-  - Font specifications
-  - Implementation guides (PowerPoint, Python, Excel)
-  - Teaching moments for each visual
-  - Animation sequences
-
-**Read this when:** You're creating actual diagram files
-
----
-
-### [DIAGRAM_EXAMPLES.md](DIAGRAM_EXAMPLES.md)
-**🖼️ Text-Based Visual Mockups**
-
-- **What:** ASCII art showing what diagrams should look like
-- **Length:** ~5,000 words
-- **Contains:**
-  - Text representations of all 10 diagrams
-  - Visual descriptions
-  - Layout guides
-  - Color palette
-  - Tool recommendations
-
-**Read this when:** You want to see what diagrams should look like before creating them
-
----
-
-## 🤝 Community Files
-
-### [CONTRIBUTING.md](CONTRIBUTING.md)
-**🌟 Contribution Guidelines**
-
-- **What:** How to improve this resource
-- **Length:** ~4,000 words
-- **Contains:**
-  - Code of conduct
-  - How to report issues
-  - How to add content (examples, visuals, translations)
-  - Pull request process
-  - Recognition system
-  - High-priority contributions needed
-
-**Read this when:** You want to contribute improvements
-
----
-
-### [LICENSE](LICENSE)
-**📜 Usage Rights & Permissions**
-
-- **What:** Legal terms (MIT License)
-- **Length:** Short legal document
-- **Contains:**
-  - Free to use, modify, distribute
-  - Attribution requirements
-  - Educational use notice
-  - Commercial workshop guidance
-  - Third-party content acknowledgment
-
-**Read this when:** You need to know usage rights
-
----
-
-### [CHANGELOG.md](CHANGELOG.md)
-**📋 Version History & Roadmap**
-
-- **What:** What's new and what's coming
-- **Length:** Growing document
-- **Contains:**
-  - Version 1.0.0 release notes
-  - All changes documented
-  - Future roadmap (Q1-Q4 2026)
-  - Planned features
-  - How to add to changelog
-
-**Read this when:** You want to know what's changed or planned
-
----
-
-### [GETTING_STARTED.md](GETTING_STARTED.md)
-**🚀 Quick Start Guide**
-
-- **What:** Navigation and quick start
-- **Length:** ~3,000 words
-- **Contains:**
-  - Repository structure
-  - Quick navigation by goal
-  - Learning paths (2 hours to 2 weeks)
-  - File summaries
-  - 3-minute quick start
-  - FAQ
-  - Success checklist
-
-**Read this when:** You're new and need orientation
-
----
-
-## 📊 Visual Diagram Files
-
-**Status:** Specifications provided, actual files to be created
-
-### 10 Diagrams Specified:
-
-1. **Prospect Theory Value Function** - S-curve showing loss aversion
-2. **Behavioral Finance Timeline** - Evolution 1944-2024
-3. **Bias Interaction Web** - How biases compound
-4. **Indian Market Chart** - Sensex annotated with bias bubbles
-5. **Three Levels Framework** - Individual → Org → Systemic pyramid
-6. **Mental Accounting** - Same money, different treatment
-7. **Disposition Effect Portfolio** - Winners sold, losers held
-8. **Informational Cascade** - Herd behavior spread
-9. **Anchoring Effect Graph** - Scatter plot with regression
-10. **Choice Architecture** - 2×2 ethical design matrix
-
-**How to create:** See [VISUAL_DIAGRAMS_GUIDE.md](VISUAL_DIAGRAMS_GUIDE.md) and [DIAGRAM_EXAMPLES.md](DIAGRAM_EXAMPLES.md)
-
----
-
-## 🗂️ File Organization
-
-```
-behavioral-finance-lecture/
-│
-├── Core Content (Read these)
-│   ├── README.md                    ← Main content
-│   ├── QUICK_REFERENCE.md           ← Teaching guide
-│   └── GETTING_STARTED.md           ← Navigation
-│
-├── Visual Resources (For creating diagrams)
-│   ├── VISUAL_DIAGRAMS_GUIDE.md     ← Specifications
-│   └── DIAGRAM_EXAMPLES.md          ← Mockups
-│
-└── Community & Meta (Supporting docs)
-    ├── CONTRIBUTING.md              ← How to contribute
-    ├── LICENSE                      ← Usage rights
-    ├── CHANGELOG.md                 ← Version history
-    └── INDEX.md                     ← You are here!
-```
-
----
-
-## 📖 Reading Recommendations by Goal
-
-### Goal: Teach Workshop Tomorrow
-**Minimum reading:**
-1. QUICK_REFERENCE.md (30 min) ⭐ ESSENTIAL
-2. README.md - Part II only (15 min)
-3. DIAGRAM_EXAMPLES.md - Skim (10 min)
-
-**Total:** 55 minutes
-
----
-
-### Goal: Deep Understanding
-**Complete reading:**
-1. README.md (60 min) ⭐ START HERE
-2. QUICK_REFERENCE.md (30 min)
-3. VISUAL_DIAGRAMS_GUIDE.md (45 min)
-4. DIAGRAM_EXAMPLES.md (20 min)
-
-**Total:** ~2.5 hours
-
----
-
-### Goal: Create Visual Diagrams
-**Technical reading:**
-1. DIAGRAM_EXAMPLES.md (20 min) ⭐ START HERE
-2. VISUAL_DIAGRAMS_GUIDE.md (45 min)
-3. README.md - For context (60 min)
-
-**Total:** 2 hours + creation time
-
----
-
-### Goal: Contribute Improvements
-**Community reading:**
-1. CONTRIBUTING.md (15 min) ⭐ ESSENTIAL
-2. README.md - To understand framework (60 min)
-3. CHANGELOG.md - See what's planned (5 min)
-
-**Total:** 80 minutes
-
----
-
-### Goal: Adapt for My Country
-**Localization reading:**
-1. README.md (60 min) - Understand structure
-2. DIAGRAM_EXAMPLES.md (20 min) - See examples
-3. CONTRIBUTING.md - Translation section (5 min)
-
-**Total:** 85 minutes + adaptation time
-
----
-
-## 📊 File Statistics
-
-| File | Words | Read Time | Priority |
-|------|-------|-----------|----------|
-| README.md | ~15,000 | 60 min | HIGH |
-| QUICK_REFERENCE.md | ~6,000 | 30 min | HIGH |
-| VISUAL_DIAGRAMS_GUIDE.md | ~12,000 | 45 min | MEDIUM |
-| DIAGRAM_EXAMPLES.md | ~5,000 | 20 min | MEDIUM |
-| CONTRIBUTING.md | ~4,000 | 15 min | MEDIUM |
-| GETTING_STARTED.md | ~3,000 | 10 min | HIGH (first-timers) |
-| CHANGELOG.md | ~1,500 | 5 min | LOW |
-| LICENSE | ~500 | 3 min | LOW |
-| **TOTAL** | **~47,000** | **~3 hours** | - |
-
----
-
-## 🎯 Quick Find
-
-**Looking for...** → **Go to...**
-
-| What You Need | File | Section |
-|---------------|------|---------|
-| Opening hook line | QUICK_REFERENCE.md | Key Transition Lines |
-| Prospect Theory explanation | README.md | Part I > Behavioral Revolution |
-| Hand-raise prompts | QUICK_REFERENCE.md | 60-Second Scripts |
-| Indian market examples | README.md | Part II > Each Bias |
-| Timeline of behavioral finance | README.md | Part I > Timeline |
-| How to create diagrams | VISUAL_DIAGRAMS_GUIDE.md | All sections |
-| What diagrams look like | DIAGRAM_EXAMPLES.md | All sections |
-| Teaching best practices | QUICK_REFERENCE.md | Engagement Techniques |
-| Academic citations | README.md | References section |
-| How to contribute | CONTRIBUTING.md | All sections |
-| Future plans | CHANGELOG.md | Roadmap section |
-| Usage permissions | LICENSE | All |
-| Where to start | GETTING_STARTED.md | Quick Navigation |
-
----
-
-## ✅ Recommended Reading Order
-
-### First-Time User
-1. **GETTING_STARTED.md** - Orientation (10 min)
-2. **README.md** - Main content (60 min)
-3. **QUICK_REFERENCE.md** - Teaching guide (30 min)
-
-### Returning User (Preparing to Teach)
-1. **QUICK_REFERENCE.md** - Refresh scripts (30 min)
-2. **DIAGRAM_EXAMPLES.md** - Visual prep (20 min)
-
-### Contributor
-1. **CONTRIBUTING.md** - Guidelines (15 min)
-2. **README.md** - Understand framework (60 min)
-3. **CHANGELOG.md** - See what's needed (5 min)
-
----
-
-## 🔄 Keep This Updated
-
-**When adding new files:**
-1. Add entry to this index
-2. Update file count in statistics
-3. Update reading recommendations
-4. Update quick find table
-5. Commit with message: "docs: update index for [new file]"
-
----
-
-<div align="center">
-
-**📚 All Files Indexed**
-
-*Everything you need is documented above*
-
-**Lost?** → Start with [GETTING_STARTED.md](GETTING_STARTED.md)  
-**Ready to teach?** → Go to [QUICK_REFERENCE.md](QUICK_REFERENCE.md)  
-**Want to dive deep?** → Read [README.md](README.md)
-
-**Questions?** [Open an issue](https://github.com/yourusername/behavioral-finance-lecture/issues)
-
-</div>
-
----
-
-**Last Updated:** January 18, 2026  
-**Total Files:** 8  
-**Total Words:** ~47,000  
-**Version:** 1.0.0
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Behavioral Finance Lecture Framework | From Homo Economicus to Homo Sapiens</title>
+    <meta name="description" content="A comprehensive, experiential learning framework on cognitive biases in financial decision-making for professors and HR-OB professionals.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="none"/><circle cx="50" cy="50" r="1" fill="white" opacity="0.1"/></svg>');
+            opacity: 0.3;
+        }
+        
+        .hero-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .icon {
+            font-size: 6em;
+            margin-bottom: 20px;
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+        }
+        
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 20px;
+            font-weight: 700;
+            animation: fadeInUp 0.8s ease-out;
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .subtitle {
+            font-size: 1.5em;
+            margin-bottom: 30px;
+            opacity: 0.95;
+            font-weight: 300;
+        }
+        
+        .hero-description {
+            font-size: 1.2em;
+            max-width: 800px;
+            margin: 0 auto 40px;
+            opacity: 0.9;
+        }
+        
+        .cta-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 40px;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 18px 40px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .btn-primary {
+            background: white;
+            color: #667eea;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+        
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 2px solid white;
+        }
+        
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-3px);
+        }
+        
+        /* Features Section */
+        .features {
+            max-width: 1200px;
+            margin: 80px auto;
+            padding: 0 20px;
+        }
+        
+        .section-title {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.2em;
+            color: #666;
+            margin-bottom: 60px;
+        }
+        
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+            margin-bottom: 60px;
+        }
+        
+        .feature-card {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-align: center;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+        }
+        
+        .feature-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+        
+        .feature-title {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            color: #667eea;
+            font-weight: 600;
+        }
+        
+        .feature-text {
+            color: #666;
+            font-size: 1.05em;
+            line-height: 1.6;
+        }
+        
+        /* Biases Section */
+        .biases {
+            background: #f8f9fa;
+            padding: 80px 20px;
+        }
+        
+        .biases-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .biases-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+        }
+        
+        .bias-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            border-left: 5px solid #667eea;
+            transition: all 0.3s ease;
+        }
+        
+        .bias-card:hover {
+            transform: translateX(10px);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+        }
+        
+        .bias-icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        
+        .bias-name {
+            font-size: 1.3em;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        
+        .bias-description {
+            color: #666;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+        
+        /* Resources Section */
+        .resources {
+            max-width: 1200px;
+            margin: 80px auto;
+            padding: 0 20px;
+        }
+        
+        .resources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+        
+        .resource-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 20px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        
+        .resource-card:hover {
+            transform: scale(1.05);
+        }
+        
+        .resource-icon {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        
+        .resource-title {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+        
+        .resource-description {
+            margin-bottom: 25px;
+            opacity: 0.9;
+        }
+        
+        .resource-card .btn {
+            background: white;
+            color: #667eea;
+        }
+        
+        /* Stats Section */
+        .stats {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        
+        .stats-grid {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 40px;
+        }
+        
+        .stat-item {
+            padding: 20px;
+        }
+        
+        .stat-number {
+            font-size: 3em;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        
+        .stat-label {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        /* Footer */
+        .footer {
+            background: #2c3e50;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .footer-links {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+        
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+            opacity: 0.8;
+            transition: opacity 0.3s ease;
+        }
+        
+        .footer-links a:hover {
+            opacity: 1;
+        }
+        
+        .copyright {
+            opacity: 0.6;
+            margin-top: 20px;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+            
+            .subtitle {
+                font-size: 1.2em;
+            }
+            
+            .hero-description {
+                font-size: 1em;
+            }
+            
+            .section-title {
+                font-size: 1.8em;
+            }
+            
+            .cta-buttons {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .features-grid,
+            .biases-grid,
+            .resources-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="icon">🧠</div>
+            <h1>Behavioral Finance Lecture Framework</h1>
+            <div class="subtitle">From Homo Economicus to Homo Sapiens</div>
+            <p class="hero-description">
+                A comprehensive, experiential learning framework on cognitive biases in financial decision-making. 
+                Designed for professors, HR-OB professionals, and academic researchers.
+            </p>
+            <div class="cta-buttons">
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/README.md" class="btn btn-primary" target="_blank">
+                    📚 Read Full Documentation
+                </a>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/QUICK_REFERENCE.md" class="btn btn-secondary" target="_blank">
+                    ⚡ Quick Start Guide
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <h2 class="section-title">Why This Framework?</h2>
+        <p class="section-subtitle">Three key differentiators that make this effective</p>
+        
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon">🎭</div>
+                <h3 class="feature-title">Experiential Learning</h3>
+                <p class="feature-text">
+                    Participants don't just study biases—they experience them firsthand through live experiments like the fountain pen auction. 
+                    This creates lasting understanding that pure theory cannot achieve.
+                </p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">🇮🇳</div>
+                <h3 class="feature-title">Indian Market Context</h3>
+                <p class="feature-text">
+                    Real examples from NSE, BSE, and Sensex. SEBI data, EPF/NPS terminology, and local corporate cases 
+                    (Reliance Power IPO, Yes Bank, Vodafone Idea) make concepts immediately relevant.
+                </p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">🎓</div>
+                <h3 class="feature-title">Academic Rigor</h3>
+                <p class="feature-text">
+                    Grounded in Nobel Prize-winning research by Kahneman & Tversky (Prospect Theory), 
+                    Thaler (Mental Accounting), and Ariely (Predictable Irrationality). Complete citations included.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Biases Section -->
+    <section class="biases">
+        <div class="biases-content">
+            <h2 class="section-title">Six Core Cognitive Biases</h2>
+            <p class="section-subtitle">The fundamental errors that systematically distort financial decisions</p>
+            
+            <div class="biases-grid">
+                <div class="bias-card">
+                    <div class="bias-icon">⚓</div>
+                    <h3 class="bias-name">Anchoring</h3>
+                    <p class="bias-description">
+                        First number sticks forever. Reliance Power IPO: ₹450 → ₹25 (investors waited 15 years for "return")
+                    </p>
+                </div>
+                
+                <div class="bias-card">
+                    <div class="bias-icon">✓</div>
+                    <h3 class="bias-name">Confirmation Bias</h3>
+                    <p class="bias-description">
+                        Seeking only information that confirms beliefs. Costs investors 3-4% annually in underperformance.
+                    </p>
+                </div>
+                
+                <div class="bias-card">
+                    <div class="bias-icon">💪</div>
+                    <h3 class="bias-name">Overconfidence</h3>
+                    <p class="bias-description">
+                        SEBI 2023: 89% of day traders lost money (avg ₹1.1 lakh), yet most believe they're in the profitable 11%.
+                    </p>
+                </div>
+                
+                <div class="bias-card">
+                    <div class="bias-icon">😰</div>
+                    <h3 class="bias-name">Loss Aversion</h3>
+                    <p class="bias-description">
+                        Losses hurt 2.5× more than gains feel good. Result: sell winners early, hold losers forever (24% annual cost).
+                    </p>
+                </div>
+                
+                <div class="bias-card">
+                    <div class="bias-icon">👥</div>
+                    <h3 class="bias-name">Herd Behavior</h3>
+                    <p class="bias-description">
+                        2017 crypto mania: Bitcoin ₹4.5L → ₹14L → ₹2.5L. Late entrants lost 70-80%.
+                    </p>
+                </div>
+                
+                <div class="bias-card">
+                    <div class="bias-icon">📅</div>
+                    <h3 class="bias-name">Recency Bias</h3>
+                    <p class="bias-description">
+                        Chasing last year's winners. AMFI: ₹18K cr into thematic funds AFTER rally peaked (30-40% drawdown followed).
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats">
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="stat-number">40 min</div>
+                <div class="stat-label">Complete Lecture</div>
+            </div>
+            
+            <div class="stat-item">
+                <div class="stat-number">10</div>
+                <div class="stat-label">Visual Diagrams</div>
+            </div>
+            
+            <div class="stat-item">
+                <div class="stat-number">20+</div>
+                <div class="stat-label">Indian Examples</div>
+            </div>
+            
+            <div class="stat-item">
+                <div class="stat-number">6</div>
+                <div class="stat-label">Core Biases</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Resources Section -->
+    <section class="resources">
+        <h2 class="section-title">Get Started</h2>
+        <p class="section-subtitle">Choose your learning path</p>
+        
+        <div class="resources-grid">
+            <div class="resource-card">
+                <div class="resource-icon">📖</div>
+                <h3 class="resource-title">Full Framework</h3>
+                <p class="resource-description">
+                    Complete lecture content with theory, examples, and applications. ~60 minutes read.
+                </p>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/README.md" class="btn" target="_blank">
+                    Read Documentation
+                </a>
+            </div>
+            
+            <div class="resource-card">
+                <div class="resource-icon">⚡</div>
+                <h3 class="resource-title">Quick Reference</h3>
+                <p class="resource-description">
+                    Teaching guide with scripts, timing, and engagement tips. Perfect for workshop prep.
+                </p>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/QUICK_REFERENCE.md" class="btn" target="_blank">
+                    Get Teaching Guide
+                </a>
+            </div>
+            
+            <div class="resource-card">
+                <div class="resource-icon">🎨</div>
+                <h3 class="resource-title">Visual Diagrams</h3>
+                <p class="resource-description">
+                    Specifications for creating 10 professional diagrams. Includes mockups and design guides.
+                </p>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/VISUAL_DIAGRAMS_GUIDE.md" class="btn" target="_blank">
+                    View Diagram Specs
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture" target="_blank">GitHub Repository</a>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/CONTRIBUTING.md" target="_blank">Contribute</a>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/LICENSE" target="_blank">License (MIT)</a>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/blob/main/CHANGELOG.md" target="_blank">Changelog</a>
+                <a href="https://github.com/rksinghdu/behavioral-finance-lecture/issues" target="_blank">Report Issue</a>
+            </div>
+            
+            <div class="copyright">
+                <p>© 2026 RK | Behavioral Finance Education Project</p>
+                <p>Based on research by Kahneman, Tversky, Thaler & Ariely</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
